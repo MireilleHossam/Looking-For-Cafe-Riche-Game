@@ -8441,7 +8441,7 @@ PrefabInstance:
         type: 3}
       propertyPath: backgroundMusic
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1567882043}
     - target: {fileID: 2239154346890614541, guid: 95fd31b60f3009042ac5de4773ff4530,
         type: 3}
       propertyPath: m_Volume
